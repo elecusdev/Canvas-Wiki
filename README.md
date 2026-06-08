@@ -1,4 +1,35 @@
 # Discord.js Canvas Complete Guide - V1 
+
+## Örnekler
+# Examples
+
+<div align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1498756764370473112/1513260279415177349/image.png" width="800">
+
+<br><br>
+
+<img src="https://media.discordapp.net/attachments/1498756764370473112/1513260279687938259/image.png?ex=6a2714f5&is=6a25c375&hm=04d498854cdc5f369c1e3198ade3b0eff68622f916859ebc6f27f026cd7f8277&=&format=webp&quality=lossless" width="800">
+
+<br><br>
+
+<img src="https://media.discordapp.net/attachments/1498756764370473112/1513260279994253512/image.png?ex=6a2714f5&is=6a25c375&hm=1fd5904082321b5a8204d520a077884944009bc59da01b0d7a22a3dc2d1aafeb&=&format=webp&quality=lossless" width="800">
+
+<br><br>
+
+<img src="https://media.discordapp.net/attachments/1498756764370473112/1513260280765747371/image.png?ex=6a2714f5&is=6a25c375&hm=54425f956ad40ea0dbea4187ef1802ab1b94ff08a1846aeedd1df75c334484e5&=&format=webp&quality=lossless" width="800">
+
+<br><br>
+
+<img src="https://media.discordapp.net/attachments/1498756764370473112/1513260281139040287/image.png?ex=6a2714f6&is=6a25c376&hm=8291bf231a5272a834603efd41382d66400a7905471f87e58b188ba2306c42a0&=&format=webp&quality=lossless" width="800">
+
+<br><br>
+
+<img src="https://media.discordapp.net/attachments/1498756764370473112/1513260281575510217/profile.png?ex=6a2714f6&is=6a25c376&hm=142894393572870047a3ed7e119ae4fcf64654d22c7c438b06d90b00a49596c5&=&format=webp&quality=lossless" width="800">
+
+</div> 
+
+
 > Created by Elecus
 
 ---
