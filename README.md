@@ -1,7 +1,6 @@
 # Discord.js Canvas Complete Guide - V1 
 
 ## Örnekler
-# Examples
 
 <div align="center">
 
@@ -30,6 +29,8 @@
 </div> 
 
 
+
+----
 > Created by Elecus
 
 ---
